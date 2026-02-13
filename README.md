@@ -31,6 +31,11 @@ The game ends if the player selects the wrong sequence.
 
 ❌ Game over screen with restart option
 
+# Live Demo
+
+🔗 Play Here:
+👉 https://arpanmallick23.github.io/Simon-Says-Game/
+
 # 🛠️ Technologies Used
 
 <p align="left"> <img src="https://skillicons.dev/icons?i=html" height="50"/> <img src="https://skillicons.dev/icons?i=css" height="50"/> <img src="https://skillicons.dev/icons?i=javascript" height="50"/> </p>
